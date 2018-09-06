@@ -1,6 +1,6 @@
 --- 
 layout: post # 使用的布局（不需要改） 
-title: PyTorch基础——Tensor # 标题 
+title: PyTorch基础 # 标题 
 subtitle: Tensor #副标题 
 date: 2018-09-06 # 时间 
 author: Yuuu # 作者 
