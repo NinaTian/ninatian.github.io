@@ -9,7 +9,7 @@ catalog: true # 是否归档
 tags: #标签 
    - PyTorch 
 ---
-
+***
 `  import torch as t `
 
 ## 构建矩阵
@@ -26,7 +26,7 @@ tags: #标签
 ## 运算
 `
    y = t.rand(5,3)
-    x + y #1
+   x + y #1
 
    t.add(x,y) #2
   
@@ -43,8 +43,8 @@ tags: #标签
   
  ## Tensor 和 Numpy 相互转换
  `
- b = a.numpy() #Tensor->Numpy
- b = t.from_numpy(a) # Numpy->Tensor
+   b = a.numpy() #Tensor->Numpy
+   b = t.from_numpy(a) # Numpy->Tensor
  `
 
 
