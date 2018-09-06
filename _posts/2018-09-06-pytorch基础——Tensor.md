@@ -9,7 +9,9 @@ catalog: true # 是否归档
 tags: #标签 
    - PyTorch 
 ---
+
 ***
+
 ```
 import torch as t 
 ```
