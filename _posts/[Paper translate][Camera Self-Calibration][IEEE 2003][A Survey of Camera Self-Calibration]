@@ -1,14 +1,15 @@
---- 
-layout: post # 使用的布局（不需要改） 
-title: [论文翻译IEEE2003]相机自标定的研究 # 标题 
-subtitle: A Survey of Camera Self-Calibration #副标题 
-date: 2018-12-12 # 时间 
-author: Yuuu # 作者 
-header-img: img/PyTorch基础.jpg #这篇文章标题背景图片 
-catalog: true # 是否归档 
-tags: #标签 
-   - PyTorch 
+---
+layout:     post
+title:      [论文翻译IEEE2003]相机自标定的研究
+subtitle:   A Survey of Camera Self-Calibration
+date:       2018-12-12
+author:     Yuuu
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - 相机自标定
 ---
 
-
 # 相机自标定的研究
+## 简介
+由[1,2]引入的自校准是通过找到与图像序列的基础投影几何一致的内在参数来校准相机的尝试。 在这样做时，自校准算法对正在观看的场景的特定结构没有或很少做出假设。 在本次调查中，我们将调用基础投影几何约束，摄像机内在约束。
