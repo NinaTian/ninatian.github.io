@@ -1,8 +1,8 @@
 --- 
 layout: post # 使用的布局（不需要改） 
-title: PyTorch基础 # 标题 
-subtitle: Autograd: 自动微分 #副标题 
-date: 2018-09-06 # 时间 
+title: [论文翻译IEEE2003]相机自标定的研究 # 标题 
+subtitle: A Survey of Camera Self-Calibration #副标题 
+date: 2018-12-12 # 时间 
 author: Yuuu # 作者 
 header-img: img/PyTorch基础.jpg #这篇文章标题背景图片 
 catalog: true # 是否归档 
